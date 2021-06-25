@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  postgres:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-25T15:12:37.5708334+05:30"
+    description: A Helm chart for PostgreSQL database
+    digest: 51ea424f13718d934694c6f75b996e6356848dbebb0c2af4dfca77234994bcf3
+    home: https://github.com/wkrzywiec/k8s-helm-helmfile/tree/master/helm
+    keywords:
+    - database
+    - postgres
+    maintainers:
+    - name: Wojtek Krzywiec
+      url: https://github.com/wkrzywiec
+    name: postgres
+    type: application
+    urls:
+    - https://abhishek151094.github.io/helm-chart/postgres-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-25T15:12:37.5702745+05:30"
